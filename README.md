@@ -1,1 +1,1 @@
-# nytimes
+# New York Times titles scraper
